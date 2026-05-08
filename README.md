@@ -10,6 +10,6 @@ Funcionalidades:
   *Ver nota final do Aluno
 
 Como executar:
-  *É nescessario ter o SDK do .Net no computador
+  *É necessário ter o SDK do .Net no computador
   1 - no terminal va até a pasta do projeto
   2 - compile e execute
